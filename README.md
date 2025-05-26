@@ -118,6 +118,5 @@ Preparing a sales dataset by:
 This project is a comprehensive guide for anyone looking to apply statistics and probability to real-world datasets. From data handling to advanced visualizations, it equips you with the tools and knowledge needed to uncover actionable insights.
 
 
-📌 **Author:** _**Tushar Govind Khairnar**_  
-
-📌 **GitHub Repository:** [Your GitHub Profile](https://github.com/Gojo-T)
+## 📌 **Author:** _**Tushar Govind Khairnar**_ 
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Gojo-T)
